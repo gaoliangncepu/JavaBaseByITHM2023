@@ -1,0 +1,8 @@
+# 忽略.idea文件夹
+JavaSEProject/.idea/
+
+# 忽略out文件夹
+/JavaSEProject/out/
+
+# 忽略.iml文件
+/JavaSEProject/*.iml
